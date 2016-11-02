@@ -1,1 +1,27 @@
-body { background-color: green;}header { background-color: #00FFFF;}h1 { background-color: #9acd32; font-family: ;}h2 { background-color: #00FFFF; background-size: 2px;}h3 { text-align: center;}img { border-color: orange;}ul {    list-style-position: inside;    float: right;}
+body {
+	background-color: green;
+}
+
+header {
+	background-color: #00FFFF;
+}
+
+h1 {
+	background-color: #9acd32;
+	font-family: ;
+}
+h2 {
+	background-color: #00FFFF;
+	background-size: 2px;
+}
+h3 {
+	text-align: center;
+}
+img {
+	border-color: orange;
+}
+
+ul {
+    list-style-position: inside;
+    float: right;
+}
